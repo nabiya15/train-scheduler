@@ -1,0 +1,50 @@
+body{
+    background-color: grey;
+    
+}
+.header{
+    color: white;
+    background-color: maroon;
+    text-align: center;
+    font-family: Times;
+    height: 100px;
+    padding:5px;
+    background-image: url('station.jpg');
+    background-repeat: no-repeat;
+    opacity: 0.7;
+}
+
+form{
+    margin-bottom: 30px;
+}
+
+
+
+.panel-default > .panel-heading-custom {
+    color: white;
+    background: maroon ; 
+    font-family: Times;
+    
+}
+.panel-body-custom{
+    text-align: center;
+    background-color: lightgrey;
+
+}
+
+
+.glyphicon {
+    margin-right: 10px;
+}
+.btn
+{
+    color: white;
+    background: maroon ;
+    border-color: maroon;
+    
+}
+.btn:hover{
+    background: grey;
+    border-color: grey;
+    
+}
